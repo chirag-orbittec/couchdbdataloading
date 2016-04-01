@@ -1,10 +1,12 @@
-CouchDB4J
----------
-14 Sept 2007
+Data loading of Data in couchdb example for Homework 1
 
-Marcus R. Breese
-Fourspaces Consulting, LLC.
-mbreese@gmail.com
+Example is in CouchDBDemo.java
+and Datasource is in allCountries.txt
+
+
+Using CouchDB4J
+---------
+
 
 
 Introduction
